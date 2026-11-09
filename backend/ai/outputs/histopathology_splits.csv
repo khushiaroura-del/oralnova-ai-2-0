@@ -1,0 +1,299 @@
+dataset_type,image_path,filename,label,class_index,split
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img031.jpg,img031.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img028.jpg,img028.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img040.jpg,img040.jpg,Pleomorphic Adenoma,4,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img047.jpg,img047.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img007.jpg,img007.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img083.jpg,img083.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img092.jpg,img092.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img012.jpg,img012.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img048.jpg,img048.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img039.jpg,img039.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img006.jpg,img006.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img069.JPG,img069.JPG,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img040.jpg,img040.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img033.jpg,img033.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img018.jpg,img018.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img037.jpg,img037.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img062.jpg,img062.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img015.jpg,img015.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img040.jpg,img040.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img040.jpg,img040.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img026.jpg,img026.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img009.jpg,img009.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img022.jpg,img022.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img022.jpg,img022.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img054.jpg,img054.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img050.jpg,img050.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img031.jpg,img031.jpg,Pleomorphic Adenoma,4,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img003.jpg,img003.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img016.jpg,img016.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img079.JPG,img079.JPG,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img055.jpg,img055.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img009.jpg,img009.jpg,Odontogenic Keratocyst,2,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img005.jpg,img005.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img094.jpg,img094.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img006.jpg,img006.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img023.jpg,img023.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img027.jpg,img027.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img019.jpg,img019.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img025.jpg,img025.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img045.jpg,img045.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img087.jpg,img087.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img005.jpg,img005.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img050.jpg,img050.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img039.jpg,img039.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img018.jpg,img018.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img039.jpg,img039.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img041.jpg,img041.jpg,Odontogenic Keratocyst,2,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img001.png,img001.png,Pleomorphic Adenoma,4,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img022.jpg,img022.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img005.jpg,img005.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img073.jpg,img073.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img011.jpg,img011.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img010.jpg,img010.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img099.jpg,img099.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img043.jpg,img043.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img034.jpg,img034.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img044.jpg,img044.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img017.jpg,img017.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img010.jpg,img010.jpg,Ameloblastoma (Plexiform),3,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img053.jpg,img053.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img002.jpg,img002.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img014.jpg,img014.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img002.tif,img002.tif,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img098.jpg,img098.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img014.jpg,img014.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img003.jpg,img003.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img024.jpg,img024.jpg,Odontogenic Keratocyst,2,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img009.jpg,img009.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img043.jpg,img043.jpg,Odontogenic Keratocyst,2,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img002.jpg,img002.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img035.jpg,img035.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img007.jpg,img007.jpg,Ameloblastoma (Plexiform),3,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img025.jpg,img025.jpg,Pleomorphic Adenoma,4,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img024.jpg,img024.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img005.jpg,img005.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img051.jpg,img051.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img058.png,img058.png,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img043.jpg,img043.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img064.jpg,img064.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img051.jpg,img051.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img080.JPG,img080.JPG,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img009.jpg,img009.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img042.jpg,img042.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img023.jpg,img023.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img044.jpg,img044.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img086.jpg,img086.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img019.jpg,img019.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img032.jpg,img032.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img049.jpg,img049.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img028.jpg,img028.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img007.jpg,img007.jpg,Odontogenic Keratocyst,2,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img088.jpg,img088.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img020.jpg,img020.jpg,Pleomorphic Adenoma,4,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img041.jpg,img041.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img019.jpg,img019.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img020.jpg,img020.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img063.jpg,img063.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img006.jpg,img006.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img021.jpg,img021.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img016.jpg,img016.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img001.jpg,img001.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img001.tif,img001.tif,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img024.jpg,img024.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img052.jpg,img052.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img017.jpg,img017.jpg,Odontogenic Keratocyst,2,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img005.jpg,img005.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img004.jpg,img004.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img022.jpg,img022.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img032.jpg,img032.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img045.jpg,img045.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img061.jpg,img061.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img052.jpg,img052.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img047.jpg,img047.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img031.jpg,img031.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img038.jpg,img038.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img037.jpg,img037.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img076.jpg,img076.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img004.jpg,img004.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img027.jpg,img027.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img021.jpg,img021.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img038.jpg,img038.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img070.jpg,img070.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img048.jpg,img048.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img082.JPG,img082.JPG,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img013.jpg,img013.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img013.jpg,img013.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img013.jpg,img013.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img095.jpg,img095.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img051.jpg,img051.jpg,Odontogenic Keratocyst,2,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img097.jpg,img097.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img046.jpg,img046.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img008.jpg,img008.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img042.jpg,img042.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img028.jpg,img028.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img025.jpg,img025.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img023.jpg,img023.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img010.jpg,img010.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img021.jpg,img021.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img031.jpg,img031.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img056.jpg,img056.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img012.jpg,img012.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img017.jpg,img017.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img020.jpg,img020.jpg,Ameloblastoma (Plexiform),3,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img015.jpg,img015.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img012.jpg,img012.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img035.jpg,img035.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img011.jpg,img011.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img021.jpg,img021.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img060.jpg,img060.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img050.jpg,img050.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img027.jpg,img027.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img004.jpg,img004.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img011.jpg,img011.jpg,Odontogenic Keratocyst,2,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img063.JPG,img063.JPG,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img066.JPG,img066.JPG,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img046.jpg,img046.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img093.jpg,img093.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img026.jpg,img026.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img091.jpg,img091.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img068.JPG,img068.JPG,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img100.jpg,img100.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img037.jpg,img037.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img034.jpg,img034.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img003.jpg,img003.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img039.jpg,img039.jpg,Pleomorphic Adenoma,4,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img066.jpg,img066.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img081.JPG,img081.JPG,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img067.JPG,img067.JPG,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img049.png,img049.png,Pleomorphic Adenoma,4,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img045.jpg,img045.jpg,Odontogenic Keratocyst,2,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img030.jpg,img030.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img016.jpg,img016.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img075.jpg,img075.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img061.jpg,img061.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img014.jpg,img014.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img085.jpg,img085.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img016.jpg,img016.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img017.jpg,img017.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img048.jpg,img048.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img041.jpg,img041.jpg,Pleomorphic Adenoma,4,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img062.tif,img062.tif,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img089.jpg,img089.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img052.jpg,img052.jpg,Odontogenic Keratocyst,2,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img036.jpg,img036.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img029.jpg,img029.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img057.jpg,img057.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img053.png,img053.png,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img035.jpg,img035.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img069.jpg,img069.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img044.jpg,img044.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img007.jpg,img007.jpg,Pleomorphic Adenoma,4,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img008.jpg,img008.jpg,Odontogenic Keratocyst,2,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img024.jpg,img024.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img057.jpg,img057.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img028.jpg,img028.jpg,Pleomorphic Adenoma,4,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img065.jpg,img065.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img052.jpg,img052.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img002.jpg,img002.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img065.JPG,img065.JPG,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img074.jpg,img074.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img015.jpg,img015.jpg,Odontogenic Keratocyst,2,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img006.jpg,img006.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img071.jpg,img071.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img059.jpg,img059.jpg,Normal,0,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img003.tif,img003.tif,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img013.jpg,img013.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img046.jpg,img046.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img014.jpg,img014.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img030.jpg,img030.jpg,Pleomorphic Adenoma,4,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img010.jpg,img010.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img013.jpg,img013.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img042.jpg,img042.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img012.jpg,img012.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img018.jpg,img018.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img058.jpg,img058.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img009.jpg,img009.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img026.jpg,img026.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img014.jpg,img014.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img059.tif,img059.tif,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img033.jpg,img033.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img035.jpg,img035.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img003.jpg,img003.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img011.jpg,img011.jpg,Pleomorphic Adenoma,4,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img068.jpg,img068.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img026.jpg,img026.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img042.jpg,img042.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img049.jpg,img049.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img010.jpg,img010.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img029.jpg,img029.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img025.jpg,img025.jpg,Odontogenic Keratocyst,2,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img047.jpg,img047.jpg,Odontogenic Keratocyst,2,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img084.jpg,img084.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img018.jpg,img018.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img034.jpg,img034.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img012.jpg,img012.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img029.jpg,img029.jpg,Odontogenic Keratocyst,2,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img045.jpg,img045.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img077.jpg,img077.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img038.jpg,img038.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img033.jpg,img033.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img054.jpg,img054.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img021.jpg,img021.jpg,Normal,0,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img038.jpg,img038.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img048.jpg,img048.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img001.jpg,img001.jpg,Odontogenic Keratocyst,2,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img008.jpg,img008.jpg,Ameloblastoma (Plexiform),3,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img055.jpg,img055.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img017.jpg,img017.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img007.jpg,img007.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img041.jpg,img041.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img036.jpg,img036.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img008.jpg,img008.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img047.jpg,img047.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img004.jpg,img004.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img056.jpg,img056.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img054.png,img054.png,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img037.jpg,img037.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img049.jpg,img049.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img020.jpg,img020.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img006.jpg,img006.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img030.jpg,img030.jpg,Oral Squamous Cell Carcinoma,1,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img034.jpg,img034.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img036.jpg,img036.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img001.gif,img001.gif,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img018.jpg,img018.jpg,Pleomorphic Adenoma,4,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img029.jpg,img029.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img032.jpg,img032.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img033.jpg,img033.jpg,Pleomorphic Adenoma,4,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img060.tif,img060.tif,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img050.jpg,img050.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img036.jpg,img036.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img043.jpg,img043.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img022.jpg,img022.jpg,Ameloblastoma (Plexiform),3,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img064.JPG,img064.JPG,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img002.jpg,img002.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img030.jpg,img030.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img020.jpg,img020.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img032.jpg,img032.jpg,Pleomorphic Adenoma,4,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img023.jpg,img023.jpg,Pleomorphic Adenoma,4,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_2 Odontogenic Keratocyst/img046.jpg,img046.jpg,Odontogenic Keratocyst,2,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img090.jpg,img090.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img071.jpg,img071.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img051.jpg,img051.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img015.jpg,img015.jpg,Oral Squamous Cell Carcinoma,1,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img067.jpg,img067.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img019.jpg,img019.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img055.jpg,img055.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img070.jpg,img070.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img016.jpg,img016.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img019.jpg,img019.jpg,Pleomorphic Adenoma,4,validation
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_0 Normal/img053.jpg,img053.jpg,Normal,0,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img015.jpg,img015.jpg,Ameloblastoma (Plexiform),3,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img072.jpg,img072.jpg,Oral Squamous Cell Carcinoma,1,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img044.jpg,img044.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img004.jpg,img004.jpg,Ameloblastoma (Plexiform),3,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_4 Pleomorphic Adenoma/img027.jpg,img027.jpg,Pleomorphic Adenoma,4,train
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_3 Ameloblastoma (Plexiform)/img011.jpg,img011.jpg,Ameloblastoma (Plexiform),3,test
+histopathology,backend/ai/dataset/histopathology/cleaned/Class_1 Oral Squamous Cell Carcinoma/img008.jpg,img008.jpg,Oral Squamous Cell Carcinoma,1,train

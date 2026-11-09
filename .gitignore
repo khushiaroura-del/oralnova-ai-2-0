@@ -39,3 +39,24 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Python environments and cache
+.venv/
+venv/
+ENV/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Dependencies and generated files
+**/node_modules/
+**/.next/
+**/build/
+*.log
+
+# AI datasets and processed images
+backend/ai/dataset/
+backend/ai/processed/
+
+backend/.venv/

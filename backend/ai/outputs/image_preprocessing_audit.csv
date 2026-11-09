@@ -1,0 +1,3 @@
+dataset,total,readable,unreadable,unique_dimensions,formats,modes
+clinical,107,107,0,99,{None: 107},"{'RGB': 99, 'RGBA': 6, 'P': 2}"
+histopathology,298,298,0,35,{None: 298},"{'RGB': 292, 'RGBA': 5, 'P': 1}"

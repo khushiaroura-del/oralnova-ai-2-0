@@ -1,0 +1,108 @@
+dataset_type,image_path,filename,label,class_index
+clinical,backend/ai/dataset/clinical/cleaned/cancer/01960a64-cfe8-444d-bbc5-575c15389a21.jpg,01960a64-cfe8-444d-bbc5-575c15389a21.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/1200px-ZungenCa2a.jpg,1200px-ZungenCa2a.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/18b79305-949e-4ed8-849c-ec5d5a794752.jpg,18b79305-949e-4ed8-849c-ec5d5a794752.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/3-s2.0-B9780443100734500148-f10-07-9780443100734.jpg,3-s2.0-B9780443100734500148-f10-07-9780443100734.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/324950_1100.jpg,324950_1100.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/41415_2000_Article_BF4800481_Fig1_HTML.jpg,41415_2000_Article_BF4800481_Fig1_HTML.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/41457tn.jpg,41457tn.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/46e21e7be60567c4b9b2ca9018587f88_XL.jpg,46e21e7be60567c4b9b2ca9018587f88_XL.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/949b9f09-aa54-454e-b631-b6d98e079f45.jpg,949b9f09-aa54-454e-b631-b6d98e079f45.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/a-Frontal-view-of-patient-with-lower-lip-squamous-cell-carcinoma-b-Postoperative.png,a-Frontal-view-of-patient-with-lower-lip-squamous-cell-carcinoma-b-Postoperative.png,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/a342a6a0-d3f6-4459-b99a-6a4d4313aa9f.jpg,a342a6a0-d3f6-4459-b99a-6a4d4313aa9f.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/b2585c8d-65a0-4476-a4e6-a9f2d424cd60.jpg,b2585c8d-65a0-4476-a4e6-a9f2d424cd60.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/base-of-tongue-cancer-symptoms.jpg,base-of-tongue-cancer-symptoms.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/C0235749-Mouth_cancer-SPL-20170511085515620.jpg,C0235749-Mouth_cancer-SPL-20170511085515620.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/cancer 6.jpg,cancer 6.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/Carcinomaoftherighttongue_OCT-20161108085557163.jpg,Carcinomaoftherighttongue_OCT-20161108085557163.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/d09a9b5c-a0b1-488f-9d50-2937fe578a7e.jpg,d09a9b5c-a0b1-488f-9d50-2937fe578a7e.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_2-1080x675.jpg,dataset_2-1080x675.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_280x190_tongue_cancer_facts_ref_guide.jpg,dataset_280x190_tongue_cancer_facts_ref_guide.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_650x350_oral_cancer_ref_guide.jpg,dataset_650x350_oral_cancer_ref_guide.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_figure1.jpg,dataset_figure1.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_left_lateral_tongue_dysplasia_3.jpeg,dataset_left_lateral_tongue_dysplasia_3.jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_mouth-cancer-symptoms-1.jpg,dataset_mouth-cancer-symptoms-1.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_mouth-photo-3.png,dataset_mouth-photo-3.png,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_mouth-photo-4.png,dataset_mouth-photo-4.png,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_oral-cancer-by-j-shah-33-728.jpg,dataset_oral-cancer-by-j-shah-33-728.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_oral-cancer-screening.jpg,dataset_oral-cancer-screening.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_oral-cancer-treatment-500x500.png,dataset_oral-cancer-treatment-500x500.png,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_oral-cancer__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDIwXQ.jpg,dataset_oral-cancer__ProtectWyJQcm90ZWN0Il0_FocusFillWzI5NCwyMjIsIngiLDIwXQ.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_oral-leukoplakia-br-image-credit-dermnet-new-zealand-br.jpg,dataset_oral-leukoplakia-br-image-credit-dermnet-new-zealand-br.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_pract_oral_cancer.jpg,dataset_pract_oral_cancer.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/dataset_squamous-cell-carinoma-of-the-tongue.jpg,dataset_squamous-cell-carinoma-of-the-tongue.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/download (2).jpeg,download (2).jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/download (4).jpeg,download (4).jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/download.jpeg,download.jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/ds01089_im00213_c7_lipcancerpicturethu_jpg.jpg,ds01089_im00213_c7_lipcancerpicturethu_jpg.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/f063-001a-9781416025276.jpg,f063-001a-9781416025276.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/f45634f6-0b4a-4d7d-ac44-5ea1658f728e.jpg,f45634f6-0b4a-4d7d-ac44-5ea1658f728e.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/first-sign-lip-cancer_c3094f88d448d26b.jpg,first-sign-lip-cancer_c3094f88d448d26b.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/images (1).jpeg,images (1).jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/images (2).jpeg,images (2).jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/images (3).jpeg,images (3).jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/images (4).jpeg,images (4).jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/images (5).jpeg,images (5).jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/images.jpeg,images.jpeg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/IMG_3506-e1564923599677.jpg,IMG_3506-e1564923599677.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/ircmj-17-3-13478-g001-preview.png,ircmj-17-3-13478-g001-preview.png,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/is-lip-cancer-painful.jpg,is-lip-cancer-painful.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/lip-cancer-and-symptoms.jpg,lip-cancer-and-symptoms.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/lip-cancer-br-image-credit-national-cancer-institute-2003-br.jpg,lip-cancer-br-image-credit-national-cancer-institute-2003-br.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/lip-cancer-pictures-youtube-regarding-lip-cancer-pictures.jpg,lip-cancer-pictures-youtube-regarding-lip-cancer-pictures.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/lip-reconstruction-gallery-skin-cancer-and-reconstructive-surgery-pertaining-to-lip-cancer-surgery.jpg,lip-reconstruction-gallery-skin-cancer-and-reconstructive-surgery-pertaining-to-lip-cancer-surgery.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/lip_images_oct_2006.jpg,lip_images_oct_2006.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/lipreconstruction1.jpg,lipreconstruction1.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/Lower_lip_cancer.jpg,Lower_lip_cancer.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/mouth-cancer.jpg,mouth-cancer.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/Oral-cancer-Courtesy-of-Professor-Jan-Zapa1a-Chair-of-Cranio-Maxillofacial.png,Oral-cancer-Courtesy-of-Professor-Jan-Zapa1a-Chair-of-Cranio-Maxillofacial.png,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/Oral-Cancer-Screenings.jpg,Oral-Cancer-Screenings.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/oralcancer1.png,oralcancer1.png,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/Screenshot 2020-03-16 at 10.47.50 AM.png,Screenshot 2020-03-16 at 10.47.50 AM.png,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/skin-cancer-of-the-lip.jpg,skin-cancer-of-the-lip.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/skin-cancer-on-lips-treatment.jpg,skin-cancer-on-lips-treatment.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/SRMJResDentSci_2013_4_1_35_116830_u1.jpg,SRMJResDentSci_2013_4_1_35_116830_u1.jpg,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/cancer/Tongue-cancer-symptoms.png,Tongue-cancer-symptoms.png,cancer,0
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/12654650-6954555-image-a-22_1556101508834-Edited.jpg,12654650-6954555-image-a-22_1556101508834-Edited.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20190916_1420142.jpg,20190916_1420142.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20191129_1750382.jpg,20191129_1750382.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20191129_1825022.jpg,20191129_1825022.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20191129_1827192.jpg,20191129_1827192.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200302_1725362.jpg,20200302_1725362.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200303_1146172.jpg,20200303_1146172.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1117132.jpg,20200314_1117132.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1117432.jpg,20200314_1117432.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1123332.jpg,20200314_1123332.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1124072.jpg,20200314_1124072.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1125032.jpg,20200314_1125032.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1129242.jpg,20200314_1129242.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1129243.jpg,20200314_1129243.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1129245.jpg,20200314_1129245.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1130302.jpg,20200314_1130302.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1130303.jpg,20200314_1130303.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/20200314_1130304.jpg,20200314_1130304.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/35556-m.jpg,35556-m.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/388x210-White_Bumps_on_Lips.jpg,388x210-White_Bumps_on_Lips.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/69293_mouth-exam-child-iStock-510174422.jpg_ccba64ac-3050-4b37-9641-ca94b3db2c11.jpeg,69293_mouth-exam-child-iStock-510174422.jpg_ccba64ac-3050-4b37-9641-ca94b3db2c11.jpeg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/_tongue.jpg,_tongue.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/biopsy-oral-cancer.jpg,biopsy-oral-cancer.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/close-up-of-spots-on-tongue.jpg,close-up-of-spots-on-tongue.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/dataset__654-What_Does_Mouth_Cancer_Look-642x361-Side-2.jpg,dataset__654-What_Does_Mouth_Cancer_Look-642x361-Side-2.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/dataset_jlspo68f92i21.jpg,dataset_jlspo68f92i21.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/download (1).jpeg,download (1).jpeg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/download (3).jpeg,download (3).jpeg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/DSC_01992.jpg,DSC_01992.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/DSC_02062.jpg,DSC_02062.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/DSC_02063.jpg,DSC_02063.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/DSC_3536_2.jpg,DSC_3536_2.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/images.jpeg,images.jpeg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/IMG_20170301_1115506262.jpg,IMG_20170301_1115506262.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/IMG_57592.jpg,IMG_57592.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/Normal-tongue-out--1296x728-gallery_slide1.jpg,Normal-tongue-out--1296x728-gallery_slide1.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/Screenshot 2020-03-15 at 9.58.58 PM.png,Screenshot 2020-03-15 at 9.58.58 PM.png,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/tongue (1).jpg,tongue (1).jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/tongue-1.jpg,tongue-1.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/tongue-tingling-in-person-with-their-tongue-sticking-out.jpg,tongue-tingling-in-person-with-their-tongue-sticking-out.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/tongue.jpg,tongue.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/WP_20141029_18_42_38_Pro2.jpg,WP_20141029_18_42_38_Pro2.jpg,non-cancer,1
+clinical,backend/ai/dataset/clinical/cleaned/non-cancer/WP_20141221_0012.jpg,WP_20141221_0012.jpg,non-cancer,1
