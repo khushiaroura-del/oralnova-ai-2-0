@@ -5,6 +5,7 @@ from datetime import datetime, timezone
 import sqlite3
 import json
 import csv
+import os
 
 import torch
 import torch.nn as nn
@@ -46,12 +47,27 @@ app = FastAPI(
 
 
 # ==========================================
-# CORS
+# CORS CONFIGURATION
 # ==========================================
+
+# Local development origin
+ALLOWED_ORIGINS = [
+    "http://localhost:3000",
+]
+
+# Add Vercel frontend origin through Render environment variable.
+# Multiple origins can be comma-separated.
+FRONTEND_ORIGINS = os.getenv("FRONTEND_ORIGINS", "")
+
+for origin in FRONTEND_ORIGINS.split(","):
+    origin = origin.strip().rstrip("/")
+
+    if origin and origin not in ALLOWED_ORIGINS:
+        ALLOWED_ORIGINS.append(origin)
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],
+    allow_origins=ALLOWED_ORIGINS,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -787,6 +803,8 @@ def health_check():
             "available": DATABASE_PATH.exists(),
             "path": str(DATABASE_PATH),
         },
+
+        "allowed_origins": ALLOWED_ORIGINS,
     }
 
 

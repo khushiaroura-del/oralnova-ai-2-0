@@ -1,5 +1,7 @@
 
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL =
+  process.env.NEXT_PUBLIC_API_BASE_URL ||
+  "http://127.0.0.1:8000";
 
 export type ImageType = "clinical" | "histopathology";
 
@@ -11,8 +13,6 @@ export interface ImageUploadResponse {
   width: number;
   height: number;
   size_bytes: number;
-  model_status: string;
-  grad_cam_status: string;
   analysis_status: string;
 }
 
@@ -57,11 +57,17 @@ async function postImage<T>(
     }
   );
 
-  const result = await response.json();
+  let result: any;
+
+  try {
+    result = await response.json();
+  } catch {
+    throw new Error("Invalid response received from server.");
+  }
 
   if (!response.ok) {
     throw new Error(
-      result.detail || "Request failed."
+      result?.detail || "Request failed. Please try again."
     );
   }
 
