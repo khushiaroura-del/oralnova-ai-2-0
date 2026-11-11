@@ -544,7 +544,7 @@ export default function AnalysisPage() {
                         </span>
                       </div>
 
-                      <div className="flex aspect-square items-center justify-center overflow-hidden rounded-xl border border-cyan-400/20 bg-black/40 p-2">
+                      <div className="flex aspect-square items-center justify-center overflow-hidden rounded-xl border border-cyan-400/20 bg-white p-2">
                         <img
                           src={image}
                           alt="Original uploaded research image"
@@ -582,20 +582,20 @@ export default function AnalysisPage() {
                 ) : (
 
                   <div
-                    className="relative inline-block max-w-full overflow-hidden rounded-lg transition-transform duration-200"
+                    className="relative aspect-square w-full max-w-[650px] overflow-hidden rounded-lg bg-white transition-transform duration-200"
                     style={{ transform: `scale(${zoom / 100})` }}
                   >
                     <img
                       src={image}
                       alt="Original uploaded research image"
-                      className="block max-h-[650px] max-w-full object-contain"
+                      className="absolute inset-0 h-full w-full object-contain"
                     />
 
                     {analysis?.grad_cam?.overlay && (
                       <img
                         src={analysis.grad_cam.overlay}
                         alt="Grad-CAM model activation overlay"
-                        className="absolute inset-0 h-full w-full object-cover"
+                        className="absolute inset-0 h-full w-full object-contain"
                         style={{ opacity: overlayOpacity / 100 }}
                       />
                     )}
@@ -1061,7 +1061,6 @@ export default function AnalysisPage() {
               )}
             </div>
 
-            {/* GRAD-CAM SECTION: KEEP TOGETHER */}
             <div className="report-section report-gradcam">
               <h2>4. Grad-CAM Visualization</h2>
 

@@ -1,6 +1,8 @@
 
 "use client";
 
+import Link from "next/link";
+
 import {
   Activity,
   ArrowUp,
@@ -37,7 +39,7 @@ const features = [
     title: "Oral Image Analysis",
     description:
       "Upload an oral image for research-based AI image analysis.",
-    status: "IN DEVELOPMENT",
+    status: "AVAILABLE",
   },
   {
     number: "02",
@@ -45,7 +47,7 @@ const features = [
     title: "AI-Assisted Screening",
     description:
       "Explore an image classification workflow powered by deep learning.",
-    status: "PLANNED",
+    status: "MODEL INTEGRATED",
   },
   {
     number: "03",
@@ -53,15 +55,15 @@ const features = [
     title: "Visual Explainability",
     description:
       "Understand model attention through Grad-CAM visual explanations.",
-    status: "PLANNED",
+    status: "AVAILABLE",
   },
   {
     number: "04",
     icon: ShieldCheck,
     title: "Research Insights",
     description:
-      "Present model evaluation, limitations and research observations.",
-    status: "PLANNED",
+      "Explore model evaluation, limitations and research observations.",
+    status: "DASHBOARD AVAILABLE",
   },
 ];
 
@@ -89,7 +91,7 @@ export default function Home() {
       <header className="relative z-20 border-b border-cyan-400/10 bg-[#020817]/80 backdrop-blur-xl">
         <nav className="mx-auto flex max-w-[1450px] items-center justify-between px-6 py-5 lg:px-12">
 
-          <a href="#" className="flex items-center gap-3">
+          <Link href="/" className="flex items-center gap-3">
             <div className="flex h-10 w-10 items-center justify-center rounded-xl border border-cyan-400/40 bg-cyan-400/10">
               <Activity className="h-6 w-6 text-cyan-300" />
             </div>
@@ -102,21 +104,41 @@ export default function Home() {
                 AI RESEARCH PLATFORM
               </p>
             </div>
-          </a>
+          </Link>
 
-          <div className="hidden items-center gap-9 text-sm text-slate-400 md:flex">
-            <a href="#" className="transition hover:text-cyan-300">Home</a>
-            <a href="#features" className="transition hover:text-cyan-300">Features</a>
-            <a href="#research" className="transition hover:text-cyan-300">Research</a>
-            <a href="#about" className="transition hover:text-cyan-300">About</a>
+          <div className="hidden items-center gap-7 text-sm text-slate-400 md:flex">
+            <Link href="/" className="transition hover:text-cyan-300">
+              Home
+            </Link>
+
+            <a href="#features" className="transition hover:text-cyan-300">
+              Features
+            </a>
+
+            <a href="#research" className="transition hover:text-cyan-300">
+              Research
+            </a>
+
+            <a href="#about" className="transition hover:text-cyan-300">
+              About
+            </a>
+
+            <Link
+              href="/dashboard"
+              className="font-semibold text-cyan-300 transition hover:text-white"
+            >
+              Dashboard
+              <ArrowUpRight className="ml-1 inline h-4 w-4" />
+            </Link>
           </div>
 
-          <a
-            href="#features"
+          <Link
+            href="/dashboard"
             className="rounded-full border border-cyan-400/40 bg-cyan-400/10 px-5 py-2.5 text-xs font-semibold text-cyan-300 transition hover:bg-cyan-400/20"
           >
-            Explore Platform <ArrowUpRight className="ml-1 inline h-4 w-4" />
-          </a>
+            Research Dashboard
+            <ArrowUpRight className="ml-1 inline h-4 w-4" />
+          </Link>
         </nav>
       </header>
 
@@ -151,35 +173,43 @@ export default function Home() {
           </p>
 
           <div className="mt-9 flex flex-wrap gap-4">
-            <a
+            <Link
               href="#features"
               className="group flex items-center gap-3 rounded-lg bg-gradient-to-r from-cyan-500 to-blue-600 px-6 py-3.5 text-sm font-bold text-white shadow-lg shadow-cyan-500/20 transition hover:scale-[1.03]"
             >
               Explore Research
               <ArrowUpRight className="h-4 w-4 transition group-hover:translate-x-1" />
-            </a>
+            </Link>
 
-            <a
-              href="#about"
+            <Link
+              href="/dashboard"
               className="flex items-center gap-2 rounded-lg border border-white/10 px-6 py-3.5 text-sm text-slate-300 transition hover:border-cyan-400/40"
             >
-              Discover More
+              View Dashboard
               <ChevronRight className="h-4 w-4" />
-            </a>
+            </Link>
           </div>
 
           <div className="mt-12 flex gap-8 border-t border-white/10 pt-7">
             <div>
               <p className="text-2xl font-bold text-cyan-300">AI</p>
-              <p className="mt-1 text-[10px] tracking-wider text-slate-500">RESEARCH</p>
+              <p className="mt-1 text-[10px] tracking-wider text-slate-500">
+                RESEARCH
+              </p>
             </div>
+
             <div>
               <p className="text-2xl font-bold text-cyan-300">XAI</p>
-              <p className="mt-1 text-[10px] tracking-wider text-slate-500">EXPLAINABILITY</p>
+              <p className="mt-1 text-[10px] tracking-wider text-slate-500">
+                EXPLAINABILITY
+              </p>
             </div>
+
             <div>
               <p className="text-2xl font-bold text-cyan-300">CV</p>
-              <p className="mt-1 text-[10px] tracking-wider text-slate-500">COMPUTER VISION</p>
+              <p className="mt-1 text-[10px] tracking-wider text-slate-500">
+                COMPUTER VISION
+              </p>
             </div>
           </div>
         </div>
@@ -206,7 +236,6 @@ export default function Home() {
           </div>
 
           <HolographicTooth3D />
-
         </div>
 
         {/* RIGHT AI PANEL */}
@@ -218,7 +247,9 @@ export default function Home() {
                 <p className="text-xs font-bold tracking-widest text-white">
                   AI RESEARCH PANEL
                 </p>
-                <p className="mt-1 text-[10px] text-slate-500">SYSTEM OVERVIEW</p>
+                <p className="mt-1 text-[10px] text-slate-500">
+                  SYSTEM OVERVIEW
+                </p>
               </div>
 
               <div className="rounded-lg bg-cyan-400/10 p-2">
@@ -227,9 +258,12 @@ export default function Home() {
             </div>
 
             <div className="mt-5 flex items-center justify-between">
-              <span className="text-xs text-slate-400">Model Architecture</span>
-              <span className="rounded-full border border-cyan-400/20 bg-cyan-400/10 px-2 py-1 text-[9px] text-cyan-300">
-                PLANNED
+              <span className="text-xs text-slate-400">
+                Model Architecture
+              </span>
+
+              <span className="rounded-full border border-emerald-400/20 bg-emerald-400/10 px-2 py-1 text-[9px] text-emerald-300">
+                TRAINED
               </span>
             </div>
 
@@ -238,9 +272,14 @@ export default function Home() {
                 <div className="rounded-lg bg-blue-500/10 p-2">
                   <Dna className="h-5 w-5 text-blue-300" />
                 </div>
+
                 <div>
-                  <p className="text-sm font-semibold">MobileNetV3-Small</p>
-                  <p className="mt-1 text-[10px] text-slate-500">Deep Learning Architecture</p>
+                  <p className="text-sm font-semibold">
+                    MobileNetV3-Small
+                  </p>
+                  <p className="mt-1 text-[10px] text-slate-500">
+                    Clinical + Histopathology Models
+                  </p>
                 </div>
               </div>
             </div>
@@ -250,35 +289,51 @@ export default function Home() {
                 <div className="rounded-lg bg-purple-500/10 p-2">
                   <Sparkles className="h-5 w-5 text-purple-300" />
                 </div>
+
                 <div>
                   <p className="text-sm font-semibold">Grad-CAM</p>
-                  <p className="mt-1 text-[10px] text-slate-500">Visual Explainability</p>
+                  <p className="mt-1 text-[10px] text-slate-500">
+                    Visual Explainability
+                  </p>
                 </div>
               </div>
             </div>
 
             <div className="mt-5 border-t border-white/10 pt-5">
               <div className="flex items-center gap-2">
-                <CircleDot className="h-4 w-4 text-amber-400" />
-                <p className="text-xs font-semibold text-amber-300">
-                  Research Preview
+                <CheckCircle2 className="h-4 w-4 text-emerald-400" />
+
+                <p className="text-xs font-semibold text-emerald-300">
+                  Models Integrated
                 </p>
               </div>
-              <p className="mt-2 text-[11px] leading-5 text-slate-500">
-                No trained model is connected yet. AI screening and analysis
-                features are under development.
-              </p>
-            </div>
 
+              <p className="mt-2 text-[11px] leading-5 text-slate-400">
+                Clinical and histopathology classification models are
+                trained. Grad-CAM visualization is available through
+                the research workspace.
+              </p>
+
+              <Link
+                href="/dashboard"
+                className="mt-4 inline-flex items-center gap-2 text-xs font-semibold text-cyan-300 hover:text-white"
+              >
+                View Research Dashboard
+                <ArrowUpRight className="h-4 w-4" />
+              </Link>
+            </div>
           </div>
 
           <div className="mt-4 flex items-center gap-3 rounded-xl border border-white/10 bg-white/[0.03] p-4">
             <div className="rounded-lg bg-green-400/10 p-2">
               <CheckCircle2 className="h-5 w-5 text-green-400" />
             </div>
+
             <div>
               <p className="text-xs font-semibold">Research Prototype</p>
-              <p className="mt-1 text-[10px] text-slate-500">Educational development project</p>
+              <p className="mt-1 text-[10px] text-slate-500">
+                Educational development project
+              </p>
             </div>
           </div>
         </div>
@@ -299,8 +354,10 @@ export default function Home() {
       </section>
 
       {/* FEATURES */}
-      <section id="features" className="relative z-10 mx-auto max-w-[1450px] px-6 py-24 lg:px-12">
-
+      <section
+        id="features"
+        className="relative z-10 mx-auto max-w-[1450px] px-6 py-24 lg:px-12"
+      >
         <div className="mb-14 flex flex-col justify-between gap-6 md:flex-row md:items-end">
           <div>
             <p className="mb-4 flex items-center gap-2 text-[10px] font-bold tracking-[0.3em] text-cyan-300">
@@ -311,7 +368,9 @@ export default function Home() {
             <h2 className="text-4xl font-bold tracking-tight md:text-5xl">
               RESEARCH-DRIVEN.
               <br />
-              <span className="text-slate-500">TECHNOLOGY-POWERED.</span>
+              <span className="text-slate-500">
+                TECHNOLOGY-POWERED.
+              </span>
             </h2>
           </div>
 
@@ -331,11 +390,16 @@ export default function Home() {
                 className="group rounded-2xl border border-white/10 bg-white/[0.025] p-6 transition duration-300 hover:-translate-y-2 hover:border-cyan-400/30 hover:bg-cyan-400/[0.04]"
               >
                 <div className="flex items-center justify-between">
-                  <span className="text-xs text-slate-600">{feature.number}</span>
+                  <span className="text-xs text-slate-600">
+                    {feature.number}
+                  </span>
+
                   <Icon className="h-6 w-6 text-cyan-300 transition group-hover:scale-110" />
                 </div>
 
-                <h3 className="mt-10 text-lg font-semibold">{feature.title}</h3>
+                <h3 className="mt-10 text-lg font-semibold">
+                  {feature.title}
+                </h3>
 
                 <p className="mt-3 min-h-[72px] text-xs leading-6 text-slate-400">
                   {feature.description}
@@ -353,7 +417,10 @@ export default function Home() {
       </section>
 
       {/* RESEARCH */}
-      <section id="research" className="relative z-10 border-y border-white/10 bg-[#071326]/70">
+      <section
+        id="research"
+        className="relative z-10 border-y border-white/10 bg-[#071326]/70"
+      >
         <div className="mx-auto grid max-w-[1450px] gap-12 px-6 py-24 md:grid-cols-2 lg:px-12">
 
           <div>
@@ -374,18 +441,23 @@ export default function Home() {
               and understand.
             </p>
 
-            <a
-              href="#about"
+            <Link
+              href="/dashboard"
               className="mt-8 inline-flex items-center gap-2 text-sm font-semibold text-cyan-300 hover:text-white"
             >
-              About the project <ArrowUpRight className="h-4 w-4" />
-            </a>
+              Explore research dashboard
+              <ArrowUpRight className="h-4 w-4" />
+            </Link>
           </div>
 
           <div className="grid gap-4 sm:grid-cols-2">
             <div className="rounded-2xl border border-cyan-400/20 bg-cyan-400/[0.04] p-6">
               <HeartPulse className="h-7 w-7 text-cyan-300" />
-              <h3 className="mt-6 text-lg font-semibold">Oral Image Research</h3>
+
+              <h3 className="mt-6 text-lg font-semibold">
+                Oral Image Research
+              </h3>
+
               <p className="mt-3 text-xs leading-6 text-slate-400">
                 Exploring image-based machine learning approaches.
               </p>
@@ -393,18 +465,24 @@ export default function Home() {
 
             <div className="rounded-2xl border border-purple-400/20 bg-purple-400/[0.04] p-6">
               <Stethoscope className="h-7 w-7 text-purple-300" />
-              <h3 className="mt-6 text-lg font-semibold">Human-Centred Approach</h3>
+
+              <h3 className="mt-6 text-lg font-semibold">
+                Human-Centred Approach
+              </h3>
+
               <p className="mt-3 text-xs leading-6 text-slate-400">
                 Keeping research communication clear and responsible.
               </p>
             </div>
           </div>
-
         </div>
       </section>
 
       {/* ABOUT */}
-      <section id="about" className="relative z-10 mx-auto max-w-[1450px] px-6 py-20 lg:px-12">
+      <section
+        id="about"
+        className="relative z-10 mx-auto max-w-[1450px] px-6 py-20 lg:px-12"
+      >
         <div className="rounded-3xl border border-cyan-400/20 bg-gradient-to-br from-cyan-400/[0.08] via-blue-500/[0.04] to-purple-500/[0.08] p-8 md:p-12">
 
           <div className="flex flex-col justify-between gap-8 md:flex-row md:items-center">
@@ -432,7 +510,12 @@ export default function Home() {
           </div>
 
           <div className="mt-10 flex flex-wrap gap-3 border-t border-white/10 pt-7">
-            {["Artificial Intelligence", "Computer Vision", "Deep Learning", "Explainable AI"].map((tag) => (
+            {[
+              "Artificial Intelligence",
+              "Computer Vision",
+              "Deep Learning",
+              "Explainable AI",
+            ].map((tag) => (
               <span
                 key={tag}
                 className="rounded-full border border-white/10 bg-white/[0.04] px-4 py-2 text-[10px] text-slate-300"
@@ -448,8 +531,11 @@ export default function Home() {
       <section className="relative z-10 mx-auto max-w-[1450px] px-6 pb-16 lg:px-12">
         <div className="flex gap-4 rounded-xl border border-amber-400/20 bg-amber-400/[0.04] p-5">
           <ShieldCheck className="h-5 w-5 shrink-0 text-amber-300" />
+
           <p className="text-xs leading-6 text-slate-400">
-            <strong className="text-amber-300">Important Disclaimer:</strong>{" "}
+            <strong className="text-amber-300">
+              Important Disclaimer:
+            </strong>{" "}
             ORALNOVA AI 2.0 is an educational research prototype, not a
             clinically validated medical diagnostic system. It cannot
             diagnose, confirm or rule out oral cancer. Any oral lesion or
@@ -462,10 +548,12 @@ export default function Home() {
       {/* FOOTER */}
       <footer className="relative z-10 border-t border-white/10 bg-[#01050d]">
         <div className="mx-auto flex max-w-[1450px] flex-col justify-between gap-5 px-6 py-8 sm:flex-row sm:items-center lg:px-12">
+
           <div>
             <p className="text-sm font-bold tracking-[0.2em]">
               ORAL<span className="text-cyan-400">NOVA</span> AI 2.0
             </p>
+
             <p className="mt-2 text-[10px] text-slate-600">
               Exploring AI-assisted oral image research.
             </p>
@@ -475,12 +563,13 @@ export default function Home() {
             Educational Research Prototype · 2026
           </p>
 
-          <a
-            href="#"
+          <Link
+            href="/"
             className="flex items-center gap-2 text-xs text-slate-400 transition hover:text-cyan-300"
           >
-            Back to top <ArrowUp className="h-4 w-4" />
-          </a>
+            Back to top
+            <ArrowUp className="h-4 w-4" />
+          </Link>
         </div>
       </footer>
 

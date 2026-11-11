@@ -60,3 +60,6 @@ backend/ai/dataset/
 backend/ai/processed/
 
 backend/.venv/
+
+# Local prediction history database
+backend/data/
