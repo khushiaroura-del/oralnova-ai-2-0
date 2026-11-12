@@ -50,12 +50,13 @@ app = FastAPI(
 # CORS CONFIGURATION
 # ==========================================
 
-# Local development origin
+# Local development and deployed Vercel frontend
 ALLOWED_ORIGINS = [
     "http://localhost:3000",
+    "https://oralnova-ai-2-0.vercel.app",
 ]
 
-# Add Vercel frontend origin through Render environment variable.
+# Optional additional frontend origins through environment variable.
 # Multiple origins can be comma-separated.
 FRONTEND_ORIGINS = os.getenv("FRONTEND_ORIGINS", "")
 
@@ -1258,8 +1259,7 @@ def get_prediction_history(
                     FROM prediction_history
                     ORDER BY id DESC
                     LIMIT ? OFFSET ?
-                    """,
-                    (limit, offset),
+                    """
                 ).fetchall()
 
         return {
