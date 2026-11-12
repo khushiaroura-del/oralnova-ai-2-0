@@ -50,14 +50,11 @@ app = FastAPI(
 # CORS CONFIGURATION
 # ==========================================
 
-# Local development and deployed Vercel frontend
 ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "https://oralnova-ai-2-0.vercel.app",
 ]
 
-# Optional additional frontend origins through environment variable.
-# Multiple origins can be comma-separated.
 FRONTEND_ORIGINS = os.getenv("FRONTEND_ORIGINS", "")
 
 for origin in FRONTEND_ORIGINS.split(","):
@@ -399,15 +396,10 @@ def get_model_research_summary(
 
     return {
         "model_type": model_type,
-
         "model_name": "MobileNetV3-Small",
-
         "architecture": "MobileNetV3-Small",
-
         "num_classes": config["num_classes"],
-
         "class_mapping": config["class_mapping"],
-
         "input_resolution": config["image_size"],
 
         "checkpoint": {
@@ -912,9 +904,7 @@ def get_research_summary():
 
         return {
             "status": "success",
-
             "project": "ORALNOVA AI",
-
             "version": "2.3.0",
 
             "generated_at": datetime.now(
@@ -923,13 +913,9 @@ def get_research_summary():
 
             "overview": {
                 "total_processed_images": total_images,
-
                 "clinical_images": clinical_count,
-
                 "histopathology_images": histopathology_count,
-
                 "number_of_models": 2,
-
                 "device": str(DEVICE),
             },
 
@@ -1259,7 +1245,8 @@ def get_prediction_history(
                     FROM prediction_history
                     ORDER BY id DESC
                     LIMIT ? OFFSET ?
-                    """
+                    """,
+                    (limit, offset),
                 ).fetchall()
 
         return {
